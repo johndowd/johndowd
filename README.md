@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ###
 
 <p align="left">✨ Creating bugs since 1993<br>
-  📚 I'm currently working on strengthining my ReactJS skills through working on my app, GamePlan!<br>
+  📚 Learning: Strengthining my ReactJS skills through working on my app, GamePlan!<br>
   🎯 Goals: Building out my app and getting hired!<br>
   🎲 Fun fact: I am a huge lover of board games and a New York Knicks superfan!</p>
 
