@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">My name is Jack Dowd and I'm an aspiring software developer, from Boston, MA.</p>
+<p align="left">My name is John Dowd and I'm an aspiring software developer, from Boston, MA.</p>
 
 ###
 
